@@ -11,7 +11,7 @@ import SwiftUI
 struct Lesson1App: App {
     var body: some Scene {
         WindowGroup {
-            CircleImage()
+            MapView()
         }
     }
 }
