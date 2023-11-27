@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        RotatedBadgeSymbol(angle: Angle(degrees: 5))
+        Badge()
     }
 }
 
