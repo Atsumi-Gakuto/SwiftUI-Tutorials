@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Lesson1-3
+//  SwiftUITutorial
 //
 //  Created by 渥美岳大 on 2023/11/27.
 //

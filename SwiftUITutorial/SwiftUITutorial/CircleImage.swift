@@ -1,6 +1,6 @@
 //
 //  CircleImage.swift
-//  Lesson1
+//  SwiftUITutorial
 //
 //  Created by 渥美岳大 on 2023/11/27.
 //
