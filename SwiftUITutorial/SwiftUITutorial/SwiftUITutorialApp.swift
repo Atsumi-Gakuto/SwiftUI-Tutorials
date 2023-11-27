@@ -11,7 +11,10 @@ import SwiftUI
 struct SwiftUITutorialApp: App {
     var body: some Scene {
         WindowGroup {
-            LandmarkRow(landmark: landmarks[0])
+            Group {
+                LandmarkRow(landmark: landmarks[0])
+                LandmarkRow(landmark: landmarks[1])
+            }
         }
     }
 }
