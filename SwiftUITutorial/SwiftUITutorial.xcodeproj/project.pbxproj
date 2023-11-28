@@ -24,6 +24,7 @@
 		092853732B15BA9C00F20B83 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092853722B15BA9C00F20B83 /* PageViewController.swift */; };
 		092853752B15BD1800F20B83 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092853742B15BD1800F20B83 /* FeatureCard.swift */; };
 		092853772B15BF0600F20B83 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092853762B15BF0600F20B83 /* PageView.swift */; };
+		092853792B15C5AE00F20B83 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 092853782B15C5AE00F20B83 /* PageControl.swift */; };
 		0974AE422B14769F00F1988D /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0974AE402B14769E00F1988D /* MapView.swift */; };
 		0974AE432B14769F00F1988D /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0974AE412B14769F00F1988D /* CircleImage.swift */; };
 		0974AE462B1476D700F1988D /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0974AE452B1476D700F1988D /* FavoriteButton.swift */; };
@@ -63,6 +64,7 @@
 		092853722B15BA9C00F20B83 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		092853742B15BD1800F20B83 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		092853762B15BF0600F20B83 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		092853782B15C5AE00F20B83 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		0974AE402B14769E00F1988D /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		0974AE412B14769F00F1988D /* CircleImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		0974AE452B1476D700F1988D /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 				092853722B15BA9C00F20B83 /* PageViewController.swift */,
 				092853742B15BD1800F20B83 /* FeatureCard.swift */,
 				092853762B15BF0600F20B83 /* PageView.swift */,
+				092853782B15C5AE00F20B83 /* PageControl.swift */,
 			);
 			path = Features;
 			sourceTree = "<group>";
@@ -334,6 +337,7 @@
 				0974AE422B14769F00F1988D /* MapView.swift in Sources */,
 				092853652B15A5CA00F20B83 /* CateforyItem.swift in Sources */,
 				0974AE5B2B14947900F1988D /* GraphCapsule.swift in Sources */,
+				092853792B15C5AE00F20B83 /* PageControl.swift in Sources */,
 				090C7B532B14653F00749FC4 /* LandmarkDetail.swift in Sources */,
 				0974AE462B1476D700F1988D /* FavoriteButton.swift in Sources */,
 				0974AE5D2B14947900F1988D /* HikeDetail.swift in Sources */,
